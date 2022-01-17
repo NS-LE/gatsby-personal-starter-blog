@@ -1,0 +1,152 @@
+[
+  {
+    "id": "001",
+    "profilepic": "https://semantic-ui.com/images/avatar/large/christian.jpg",
+    "Specialty": "General Surgery",
+    "Doctor": "Dr P Jayasimha Reddy",
+    "Hospital": "Star Hospital",
+    "City": "Banjara Hills,Hyderabad",
+    "procedure":"Appendectomy",
+    "packageprice":5000
+  },
+  {
+    "id": "002",
+    "profilepic": "https://semantic-ui.com/images/avatar2/large/patrick.png",
+    "Specialty": "General Surgery",
+    "Doctor": "Dr A Lingam",
+    "Hospital": "Eshwar Sai Nursing Home",
+    "City": "Gajwel",
+    "procedure":"Laprotomy",
+    "packageprice":20000
+  },
+  {
+    "id": "003",
+    "profilepic": "https://semantic-ui.com/images/avatar/large/chris.jpg",
+    "Specialty": "General Surgery",
+    "Doctor": "Dr B Venkata Krishna",
+    "Hospital": "Eshwardas Hospital",
+    "City": "Kamareddy",
+    "procedure":"Endoscopy",
+    "packageprice":10000
+  },
+  {
+    "id": "004",
+    "profilepic": "https://semantic-ui.com/images/avatar/large/elliot.jpg",
+    "Specialty": "General Surgery",
+    "Doctor": "Dr K Narasimha Reddy",
+    "Hospital": "Madhavi Nursing Home",
+    "City": "Narsapur",
+    "procedure":"Hystrectomy",
+    "packageprice":18000
+  },
+  {
+    "id": "005",
+    "profilepic": "https://semantic-ui.com/images/avatar/large/justen.jpg",
+    "Specialty": "ENT",
+    "Doctor": "Dr PA Rahul Kumar",
+    "Hospital": "Cyber ENT Clinic",
+    "City": "Dilsukhnagar",
+    "procedure":"Tonsillectomy",
+    "packageprice":20000
+  },
+  {
+    "id": "006",
+    "profilepic": "https://semantic-ui.com/images/avatar/large/steve.jpg",
+    "Specialty": "ENT",
+    "Doctor": "Dr G Venkateshwar",
+    "Hospital": " Siddi Vinayaka ENT Hospital",
+    "City": "Jagityal",
+    "procedure":"Rhinotomy",
+    "packageprice":22000
+  },
+  {
+    "id": "007",
+    "profilepic": "https://semantic-ui.com/images/avatar2/large/matthew.png",
+    "Specialty": "ENT",
+    "Doctor": "Dr D. Vidyasagar",
+    "Hospital": "Lotus Clinic",
+    "City": "Malkajgiri",
+    "procedure":"Nasal Endoscopy",
+    "packageprice":21000
+  },
+  {
+    "id": "008",
+    "profilepic": "https://semantic-ui.com/images/avatar/large/matt.jpg",
+    "Specialty": "ENT",
+    "Doctor": "Dr V Sriprakash",
+    "Hospital": "Microcare ENT Hospital",
+    "City": "KPHB Colony",
+    "procedure":"Polypectomy",
+    "packageprice":20000
+  },
+  {
+    "id": "009",
+    "profilepic": "https://semantic-ui.com/images/avatar/large/joe.jpg",
+    "Specialty": "Orthopedics",
+    "Doctor": "Dr M Ashwin Kumar Reddy",
+    "Hospital": "Aware Global Hospital",
+    "City": "Karmanghat, Hyderabad",
+    "procedure":"Arthroscopy",
+    "packageprice":150000
+  },
+  {
+    "id": "010",
+    "profilepic": "https://semantic-ui.com/images/avatar/large/christian.jpg",
+    "Specialty": "Orthopedics",
+    "Doctor": "Dr VM Chandrasekhar",
+    "Hospital": "Sai Prasad Ortho Hospital",
+    "City": "Suryapet",
+    "procedure":"Knee Replacement",
+    "packageprice":200000
+  },
+  {
+    "id": "011",
+    "profilepic": "https://semantic-ui.com/images/avatar2/large/patrick.png",
+    "Specialty": "Ophtholmology",
+    "Doctor": "Dr Nitesh Narayen",
+    "Hospital": "N-Vision Eye hospital",
+    "City": "Ameerpet, Hyderabad",
+    "procedure":"Pterigym Surgery",
+    "packageprice":10000
+  },
+  {
+    "id": "012",
+    "profilepic": "https://semantic-ui.com/images/avatar/large/chris.jpg",
+    "Specialty": "Ophtholmology",
+    "Doctor": "Dr M Bhanu Prakash",
+    "Hospital": "Dr Agarwal Eye Hospital",
+    "City": "Ameerpet Hyderabad",
+    "procedure":"Cataract Phaco",
+    "packageprice":20000
+  },
+  {
+    "id": "013",
+    "profilepic": "https://semantic-ui.com/images/avatar/large/elliot.jpg",
+    "Specialty": "Ophtholmology",
+    "Doctor": "Dr K Ramakanth Reddy",
+    "Hospital": "Drishti Eye Center",
+    "City": "Yellareddy Guda, Hyderabad",
+    "procedure":"Vitrectomy",
+    "packageprice":25000
+  },
+  {
+    "id": "014",
+    "profilepic": "https://semantic-ui.com/images/avatar/large/justen.jpg",
+    "Specialty": "Ophtholmology",
+    "Doctor": "Dr. Parveiz Hussain",
+    "Hospital": "Zeeshan's Medi Sight Eye Care Centre",
+    "City": "Saidabad, Hyderabad",
+    "procedure":"Cataract",
+    "packageprice":15000
+  },
+  {
+    "id": "015",
+    "profilepic": "https://semantic-ui.com/images/avatar2/large/lindsay.png",
+    "Specialty": "Dermatology",
+    "Doctor": "Dr D Shoba Reddy",
+    "Hospital": "Dr. Shoba's Skin & Hair Clinic",
+    "City": "Mehdipatnam, Hyderabad",
+    "procedure":"Hair Transplant",
+    "packageprice":90000
+  }
+]
